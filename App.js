@@ -9,7 +9,6 @@ import DialogContainer from "react-native-dialog/lib/Container";
 import DialogTitle from "react-native-dialog/lib/Title";
 import DialogDescription from "react-native-dialog/lib/Description";
 import DialogButton from "react-native-dialog/lib/Button";
-import { render } from "react-dom";
 import { StatusBar } from "expo-status-bar";
 const day= ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
 const month=new Date().getMonth().toLocaleString();
